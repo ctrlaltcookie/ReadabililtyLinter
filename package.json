@@ -1,0 +1,21 @@
+{
+  "name": "rabl",
+  "version": "1.0.0",
+  "description": "a readability linter that will spit out an object containing the readability scores for a piece or pieces of content, can be used to fail a pipeline if someone has added a particularly hard to read document",
+  "main": "index.js",
+  "scripts": {
+    "test": "make"
+  },
+  "keywords": [
+    "readability",
+    "linting"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "automated-readability": "^1.0.2",
+    "coleman-liau": "^1.0.2",
+    "flesch-kincaid": "^1.0.2",
+    "syllable": "^3.0.0"
+  }
+}
