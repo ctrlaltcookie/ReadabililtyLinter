@@ -1,0 +1,5 @@
+A computer program is a collection of instructions[1] for performing a specific task that is designed to solve a specific class of problems. The instructions of a program are designed to be executed by a computer and it is required that a computer is able to execute programs in order for it to function.
+
+The instructions of a computer program are often specified by a computer programmer. A computer programmer does this by means of the application of a programming language. From the program in its human-readable form of source code, a compiler can derive machine code, which are computer program instructions that—as a result of being specified in a language that a computer can understand—are able to be directly executed by the computer they have been provided to. Alternatively, a computer program may be executed with the aid of an interpreter.
+
+The method applied by a computer to execute the instructions of a computer program is called an algorithm. A collection of computer programs, libraries, and related data are referred to as software. Computer programs may be categorized along functional lines, such as application software and system software.
