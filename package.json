@@ -18,5 +18,9 @@
     "flesch-kincaid": "^1.0.2",
     "meow": "^5.0.0",
     "syllable": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctrlaltcookie/ReadabililtyLinter.git"
   }
 }
