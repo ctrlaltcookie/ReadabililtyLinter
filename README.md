@@ -2,7 +2,7 @@
 
 The general idea of this project is to get devs to start looking at the readability of their documentation with the same scrutiny they do their code. How many api's have you used where you've needed to consult the documentation due to some issue, only to find a bunch of typo's, double negatives or long trailing sentences that meander around and never quite get to the point, leaving you with no answer to your initial question.
 
-It'd be great if all devs could write perfect english and wrote dynamite documentation first try every time, but, well, that's a fantasy. No devs I talk ever wish to spend time writing documentation instead of code, it's just not a focus. 
+It'd be great if all devs could write perfect english and wrote dynamite documentation first try every time, but, well, that's a fantasy. No devs I've ever talked with have wished to spend time writing documentation instead of code, it's just not our focus. 
 
 This means we need a solution right? I mean, people also don't want to spend time writing tests either, but we know how important they are, so how can we get people to write better documentation?
 
